@@ -20,6 +20,6 @@ php artisan key:generate
 ```
 
 
-#Api Documentation
+# Api Documentation
 
 https://documenter.getpostman.com/view/14313145/2sAXqmB5Fe
